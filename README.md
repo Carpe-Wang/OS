@@ -1,2 +1,6 @@
-public class OSManager 各种操作
-public class FileModel 各个特性如名字，文件类型等
+用Java开发的一个操作系统
+其中内存大概表示为fat
+其中没有调用JDK所提供的函数，如main函数里面的字符串拆分全部是由自己所写
+使用oop思想，main函数是大概系统的流程(函数menu提供实现)
+添加文件等操作全部由OSmanager实现
+各种属性在FileModel定义
